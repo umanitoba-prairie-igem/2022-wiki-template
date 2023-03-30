@@ -1,3 +1,9 @@
+# Last Year's Example Wiki
+
+Hey Prairie iGEM team, this is the template wiki from last year's iGEM event. [Here's the source!](https://gitlab.igem.org/templates/wiki-frozen-flask) Feel free to poke around and see what's going on! -Luke
+
+-----
+
 # iGEM TeamName Wiki
 
 This repository **MUST** contain all coding assets to generate your team's wiki (HTML, CSS, JavaScript, TypeScript, Python, etc).
